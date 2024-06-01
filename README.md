@@ -15,6 +15,9 @@
 <a href="https://github.com/Toxic1239/TOXXIC-MD/stargazers"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
 <a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
 <a href="https://github.com/Toxic1239/TOXXIC-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+</p>
+<p align="center"><img src="https://profile-counter.glitch.me/{fearless}/count.svg" alt="fearless-md :: Visitor's Count" /></p>
+---
   
 ***
 
