@@ -55,7 +55,7 @@
 ***
 ### DEVELOPER:
 **GET In Touch with The Owner**
-- [**On WhatsApp**](https://wa.me/2348165846414)
+- [**TOXXIC BOY**](https://wa.me/2348165846414)
 - [**Via WhatsApp**](https://wa.me/2348165846414)
 
 ***
