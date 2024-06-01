@@ -22,7 +22,7 @@
 
 ***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/Toxic1239/TOXXIC-MD/fork) It***
 
-***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://flash-sessions-d1f770c2ae05.herokuapp.com/pair)***
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://flash-sessions-d1f770c2ae05.herokuapp.com/pair)*** `not available yet`
 
 *-Copy The Session ID to paste it in Heroku*
 
@@ -34,7 +34,7 @@
 <p align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-**2. If You Have a Heroku Account**
+**2. If You Have a Heroku Account `not ready yet` **
     <br>
 <p align="center"><a href="https://toxxic-md.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
