@@ -48,7 +48,7 @@
 ***
 
 ### LICENSE 
--The FLASH-MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+-The TOXXIC MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
 -Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
