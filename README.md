@@ -1,57 +1,67 @@
-# Zokou-2.0
+<h1 align="center"> 𝐓𝙾𝚇𝚇𝙸𝙲 𝙼𝙳 𝐌𝐔𝐋𝐓𝐈 𝐃𝐄𝐕𝐈𝐂𝐄  </h1>
+<p align="center">  
+  
+***
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING +TOXXIC-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+TOXXIC+BOY;RELEASED+10.7.2024" alt="Typing SVG" /></a>
+  </p>
+    <img alt="TOXXIC-MD" width="700" height="300" src="https://telegra.ph/file/6bd00d487a8fc1b0c9ca4.jpg">
+<p align="center">
+<p align="center">
+<a href="https://github.com/Toxic1239/Flash-Md"><img title="Author" src="https://img.shields.io/badge/FLASH_MD-black?style=for-the-badge&logo=github"></a>
+<p/>
+<p align="center">
+<a href="https://github.com/franceking1?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/franceking1?label=Followers&style=social"></a>
+<a href="https://github.com/franceking1/Flash-Md/stargazers/"><img title="STARS" src="https://img.shields.io/github/stars/franceking1/Flash-Md?&style=social"></a>
+<a href="https://github.com/franceking1/Flash-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/franceking1/Flash-Md?style=social"></a>
+<a href="https://github.com/franceking1/Flash-Md/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/franceking1/Flash-Md?label=Watching&style=social"></a>
+  
+***
+
+#### SETUP 
+
+***1.`First STAR 🌟 This Repo ` And Then [`FORK`](https://github.com/franceking1/Flash-Md/fork) It***
+
+***2.`Get Session ID` by [`SCANING QR`](https://flash-md-qr-15fb04fdd132.herokuapp.com/) Or [`PAIRING CODE`](https://flash-sessions-d1f770c2ae05.herokuapp.com/pair)***
+
+*-Copy The Session ID to paste it in Heroku*
+
+***
+
+#### DEPLOY TO HEROKU 
+**1. If You Don't Have An Account On Heroku**
+    <br>
+<p align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+**2. If You Have a Heroku Account**
+    <br>
+<p align="center"><a href="https://flash-deploy.vercel.app"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-
-Zokou is a multi-device bot designed to enhance your WhatsApp conversations with useful and fun features. Whether managing files, interacting with stickers, or facilitating group management, Zokou is here to assist you.
-
-## Key Features
-
-- **File Download:** Zokou can download audio and video files from links you send, making it easy to share them with your contacts.
-
-- **Sticker Export:** You can export stickers from Telegram and use them in your WhatsApp conversations by simply sending them to Zokou.
-
-- **Group Management:** Zokou offers group management features, such as adding or removing members, configuring rules, and other settings.
-
-- **Text to Img:** The best logos have been selected for your convenience.
-
-## Fun Features
-
-- **Jokes and Riddles:** Zokou comes with a collection of jokes and riddles to liven up your conversations.
-
-- **Inspiring Quotes:** Receive inspiring quotes to motivate you daily.
-
-## Get Zokou
-
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
-
-2. Obtain a bot session: 
-
-   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
+***
 
 
-3. Deploy
-   - **Heroku Deployment:**
-     1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
-     2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
+### CONTRIBUTIONS 
+-Contributions to TOXXIC-MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
-## Contributions
+***
 
-Contributions to Zokou are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+### LICENSE 
+-The TOXXIC MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
-   thinks to these persons ;
+-Enjoy the diverse features of the Flash-Md  to enhance your conversations and make your WhatsApp experience more interesting!
 
-   **Fatao** who added commands (Fancy, gpt, dalle, apk); <br>
+***
+### DEVELOPER:
+**GET In Touch with The Owner**
+- [**On WhatsApp**](https://wa.me/2348165846414)
+- [**Via WhatsApp**](https://wa.me/2348165846414)
 
-   **CrazyPrice** who hosted a second website for the session_id;
+***
 
-## License
-
-The WhatsApp Bot Zokou is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-Enjoy the diverse features of the WhatsApp Bot Zokou to enhance your conversations and make your WhatsApp experience more interesting!
-
-## Developers:
-
-- [**Djalega++**](https://github.com/djalega8000/Zokou-MD/)
-- [**᚛M๏𝓷keℽ D Lบffy᚜**](https://github.com/Faouz995)
-
+### THANKS TO:
+- [***Fortunatus Mokaya***](https://github.com/Fortunatusmokaya) For several Cmds Addition.
+- [***Gifted Tech***](https://github.com/giftedtechnexus) For Genaral Help and Session Generation
+- [***Suhail Ser***](https://github.com/SuhailTechInfo) For Code encryption 
+- [***Luffy***](https://github.com/Luffy2ndAccount) For Providing a Base of **TOXXIC MD**
